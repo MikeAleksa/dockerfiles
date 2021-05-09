@@ -1,0 +1,13 @@
+{
+  "name": "Ubuntu",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "/bin/zsh"
+  },
+
+  "extensions": ["k--kato.intellij-idea-keybindings"],
+  "remoteUser": "vscode"
+}
